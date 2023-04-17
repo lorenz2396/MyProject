@@ -1,0 +1,88 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+
+}
+
+.container{
+  width: 900px;
+  height: 600px;
+  margin: auto;
+  text-align: center;
+  line-height: normal;
+  background: rgba(0, 0, 0, 0.6);
+  padding-top: 60px;
+  border-radius: 15px;
+}
+
+header{
+  margin-top: 20px;
+}
+
+h2{
+  color: #00ff00;
+  font-family: sans-serif;
+}
+
+button{
+   font-size: x-small;
+}
+
+.modalità{
+  width: 780px;
+  height: 30px;
+  background: #00ff00;
+  text-align: center;
+  margin: auto;
+  box-sizing: border-box;
+  padding: 5px;
+}
+main{
+  display: grid;
+  margin-top: 10px;
+}
+
+
+.monopattino{
+  color: white;
+  float: left;
+  padding-left: 60px;
+  text-align: initial;
+  margin: 5px;
+}
+
+
+.carica-Gino{
+  height: 15px;
+  width: 45%;
+  background-color: #ffcc00;
+}
+
+.carica-Mike{
+  height: 15px;
+  width: 70%;
+  background-color: #009900;
+}
+
+.carica-Fede{
+  height: 15px;
+  width: 20%;
+  background-color: #990000;
+}
+
+.testo-Grande{
+  font-size: medium;
+  font-family: sans-serif;
+}
+
+.testo-Piccolo{
+  font-size: x-small;
+  font-family: serif;
+  color: lightgrey;
+
+
+}
+
+#freccia{
+  font-size: small;
+}
